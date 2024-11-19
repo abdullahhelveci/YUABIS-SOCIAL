@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Bu proje bir sosyalmedya uygulamasıdır. bu projede post atabilir, resimli post atabilir ve arkadaşlarınızı takip edebilirsiniz. Gönderilerini beğenebilirsiniz. bu proje nodejs ve react kullanılarak oluşturulan bilgiler mongodb de tutulan bir full-stack projesidir.
+This project is an interactive social media platform where users can share text and visual posts, like others' posts, and follow friends to expand their network. Built with modern technologies like Node.js and React, it ensures efficient data storage and management using MongoDB, offering a high-performance full-stack solution.
 
 `To run the Server: 'nodemon server.js'`
 
